@@ -17,3 +17,5 @@ Markdown github:
 
   > We're living the future so
   > the present is our past.
+
+  nowy plik dla githuba
