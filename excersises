@@ -1,0 +1,23 @@
+## exercises - on 31 january 2018
+
+instalownie plaukjących pakietów
+ * python-pip
+ * git
+ * docker
+ * curl
+ * etc.
+
+## next
+
+wywoływanie komend
+* deps
+* lint
+* test
+* run
+* etc.
+
+## what else?
+* tworzenie pliku tekstowego
+* git add
+* git commit
+* git push
