@@ -7,7 +7,7 @@ instalownie plaukjących pakietów
  * curl
  * etc.
 
-## next
+### next
 
 wywoływanie komend
 * deps
@@ -16,11 +16,18 @@ wywoływanie komend
 * run
 * etc.
 
-## what else?
+### what else?
 * tworzenie pliku tekstowego
 * git add
 * git commit
 * git push
 
-## and:
+### and:
 * wprowadzenie zmian do pliku tekstowego
+
+## exercises - on 1 february 2018
+
+ponowne uruchomienie terminala w celu powtórzenia komend:
+* git add
+* git commit
+* git push
